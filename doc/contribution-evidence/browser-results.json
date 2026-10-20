@@ -1,0 +1,24 @@
+{
+  "browser": "153.0.8010.0",
+  "webseed": {
+    "displayPreserved": true,
+    "unchangedSubmission": true,
+    "editedSubmission": true,
+    "enterKey": true
+  },
+  "folder": {
+    "before": {
+      "size": 4194304,
+      "progress": 25,
+      "availability": 0.25,
+      "remaining": 0
+    },
+    "after": {
+      "size": 4194304,
+      "progress": 100,
+      "availability": 1,
+      "remaining": 0
+    }
+  },
+  "pageErrors": []
+}
